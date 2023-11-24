@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/125B9aHtHwYj0Zqr1KGHZ8zGDhJVcaI_2
 """
 
-!pip install -q streamlit
+pip install -q streamlit
 
 from tensorflow.keras.models import load_model
 from tensorflow.keras.applications.imagenet_utils import preprocess_input

@@ -118,7 +118,7 @@
       "metadata": {
         "id": "B7tEEFCdmLrp"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {

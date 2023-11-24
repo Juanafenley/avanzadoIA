@@ -37,7 +37,7 @@
         },
         "outputId": "2509d6c1-f447-424e-ac79-e9aeb6a0998d"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -55,7 +55,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": None,
       "metadata": {
         "id": "jSkUr8k1kDoc"
       },
@@ -82,7 +82,7 @@
         },
         "outputId": "f7825101-5daa-44ab-98b3-9ad8b486b9b5"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -101,7 +101,7 @@
       "metadata": {
         "id": "QVRhuE4Y3sUM"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -138,7 +138,7 @@
       "metadata": {
         "id": "vdK7K4f8oEi3"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -153,7 +153,7 @@
         },
         "outputId": "e9e4b0ad-df72-428f-c0ab-810c4e75d9a0"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
